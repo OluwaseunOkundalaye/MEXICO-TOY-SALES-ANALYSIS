@@ -389,11 +389,6 @@ From the analysis above;
 -	Peaks in April and March might be linked to seasonal demand or promotional activities.
 -	The lowest revenues in August 2022 and September 2023 need investigation for potential underlying issues.
 
-**Recommendations:**
--	Analyze seasonal trends to capitalize on high demand periods.
--	Develop strategies to counteract the revenue decline observed in late 2023.
--	Explore market conditions and competitive factors during low performance months.
-
 **Quantity Trend Over Time**
 
 ![](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS/blob/main/Quantity%20Trend%20Over%20Time.png)
