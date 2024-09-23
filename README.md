@@ -2,21 +2,21 @@
 A Power BI project for sales &amp; inventory data for a toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location.
 
 ## Table of Content
-- Project Overview
-- Project Scope
-- Business Objective
-- Document Purpose
-- Use Case
-- Skills Demonstrated
-- Data Source
-- Data Connection Detail
-- Data Profiling
-- Data modelling
-- Data Cleaning and Process
-- Data Analysis and Insight
-- Data Visualization
-- Recommendation
-- Conclusion
+- [Project Overview](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#project-overview)
+- [Project Scope](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#project-scope)
+- [Business Objective](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#business-objective)
+- [Document Purpose](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#document-purpose)
+- [Use Case](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#use-case)
+- [Skills Demonstrated](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#skills-demonstrated)
+- [Data Source](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-source)
+- [Data Connection Detail](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-connection-detail)
+- [Data Profiling](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-profiling)
+- [Data modelling](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-modelling)
+- [Data Cleaning and Process](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-cleaning-and-process)
+- [Data Analysis and Insight](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-analysis-and-insight)
+- [Data Visualization](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#data-visualization)
+- [Recommendation](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#recommendation)
+- [Conclusion](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS#conclusion)
 
 ## Project Overview
 
@@ -132,7 +132,7 @@ Data profiling in Power BI involves examining and analyzing data characteristics
 -	Units: 0
 -	Duplicates: This table has no duplicate value
 
-## Data Profile on Key Column on Store Table
+**Data Profile on Key Column on Store Table**
 
 ![](https://github.com/OluwaseunOkundalaye/MEXICO-TOY-SALES-ANALYSIS/blob/main/Data%20Profilling%20on%20Store%20Table.png)
 
