@@ -477,7 +477,7 @@ This measure will gives the total monetary value of the inventory across all toy
 -	Focus marketing efforts during December and March, when profits peak. Target the Toys and Electronics categories for promotions and inventory adjustments during these times.
 
 **2.	Address Summer Declines:**
-•	Counteract profit drops in the summer months (June to August) by launching seasonal promotions or discounts. Consider introducing new products to boost demand during this period.
+-	Counteract profit drops in the summer months (June to August) by launching seasonal promotions or discounts. Consider introducing new products to boost demand during this period.
 
 **3.	Prioritize Toys and Arts and Crafts:**
 -	With Toys generating the highest revenue and Arts and Crafts having the highest quantity sold, these categories should receive attention in terms of inventory and promotional strategies.
